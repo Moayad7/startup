@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.74 367.61">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6dccde;
+        stroke-width: 0px;
+        
+      }
+
+      .ping{
+        animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+      }
+      
+      @keyframes ping {
+        75%, 100% {
+          transform: scale(1);
+          opacity: 0;
+        }
+      }
+
+      .cls-2 {
+        opacity: .06;
+      }
+
+      .cls-3 {
+        fill: #1f285b;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g class="cls-2">
+      <rect class="cls-3" x="-2229.67" y="459.11" width="2485.03" height="1281.01"/>
+    </g>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <ellipse class="cls-1 ping" cx="7.87" cy="360.11" rx="4.22" ry="4.03"/>
+      <path class="cls-1 " d="m15.74,360.11c0-4.14-3.53-7.51-7.87-7.51-4.34,0-7.87,3.37-7.87,7.51,0,4.14,3.53,7.51,7.87,7.51s7.87-3.37,7.87-7.51Zm-14.15,0c0-3.3,2.82-5.99,6.28-5.99,3.46,0,6.28,2.69,6.28,5.99,0,3.3-2.82,5.99-6.28,5.99-3.46,0-6.28-2.69-6.28-5.99Z"/>
+      <path class="cls-1" d="m238.74.76c0-.19-.08-.39-.23-.54-.31-.3-.81-.3-1.13,0l-110.78,105.69v139.84S7.31,359.57,7.31,359.57c-.31.3-.31.78,0,1.07.31.3.81.3,1.13,0l119.76-114.26V106.54S238.51,1.3,238.51,1.3c.16-.15.23-.34.23-.54Z"/>
+    </g>
+  </g>
+
+</svg>

@@ -1,0 +1,52 @@
+
+.bag{
+    background-image: url("../shapes/shapes-22.webp");;
+    background-size: ;
+    background-attachment: fixed;
+  }
+  
+  .circuit11{
+    background-image: url("../shapes/shapes-21.png");
+    background-size: cover;
+  }
+  .circuit1{
+    background-image: url("../shapes/shapes-21.png");
+    background-size: cover;
+    animation: ping 3s cubic-bezier(0, 0, 0.2, 1) infinite; 
+  }
+  @keyframes ping {
+    30%, 100% {
+      transform: scale(2);
+      opacity: 0;
+    }
+  }
+  .circuit2{
+    background-image: url("../shapes/ahmad\ website2-20.svg");;
+    background-size: cover;
+  }
+  
+  .circuit3{
+    background-image: url("../shapes/shapes-19.png");;
+    background-size: cover;
+  }
+  
+  .circuit4{
+    background-image: url("../shapes/shapes-18.svg");;
+    background-size: cover;
+  }
+  
+  .circuit5{
+    background-image: url("../shapes/shapes-19.png");;
+    background-size: cover;
+  }
+  
+  .circuit6{
+    background-image: url("../shapes/shapes-19.png");;
+    background-size: cover;
+  }
+  
+  .arrow{
+    background-image: url("../shapes/shapes-23.svg");;
+    background-size: cover;
+  }
+  

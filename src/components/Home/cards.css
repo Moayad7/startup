@@ -1,0 +1,23 @@
+.container{
+
+}
+
+
+.card{
+
+}
+
+.card:hover .card-icon{
+  transform: scale(1.3);
+}
+
+.card:hover .card-title{
+  color: #6DCCDE;
+}
+
+.card-background{
+  background-image: url(../../assets//shapes/shapes-22.webp);
+  background-size: ;
+  background-attachment: fixed;
+} 
+

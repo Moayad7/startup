@@ -1,13 +1,30 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: pnu;
+  src: url(./assets/fonts/PNU-Regular.ttf);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: pnu-black;
+  src: url(./assets/fonts/PNU-Bold.ttf);
 }
+
+@font-face {
+  font-family: pnu-light;
+  src: url(./assets/fonts/PNU-Light.ttf);
+}
+
+@font-face {
+  font-family: pnu-medium;
+  src: url(./assets/fonts/PNU-Medium.ttf);
+}
+
+
+body {
+  font-family: pnu;
+}
+
