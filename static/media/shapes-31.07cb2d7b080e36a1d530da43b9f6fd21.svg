@@ -25,6 +25,16 @@
       .cls-6 {
         fill: #5ac8de;
       }
+
+      .ping{
+        animation: ping 2.5s cubic-bezier(0, 0, 0.2, 1) infinite;
+      }
+      @keyframes ping {
+        75%, 100% {
+          transform: scale(1.01);
+          opacity: 0;
+        }
+      }
     </style>
     <clipPath id="clippath">
       <rect class="cls-3" x="975.6" y="-820.29" width="2401.9" height="1281.01"/>
@@ -53,6 +63,6 @@
   <path class="cls-6" d="m155.62,174.52c-1.73,1.73-4.42-.96-2.69-2.69,1.73-1.73,4.42.96,2.69,2.69Z"/>
   <path class="cls-6" d="m116.84,24.22c-1.73,1.73-4.42-.96-2.69-2.69,1.73-1.73,4.42.96,2.69,2.69Z"/>
   <g class="cls-1">
-    <rect class="cls-2" x="975.6" y="-820.29" width="2401.9" height="1281.01"/>
+    <rect class="cls-2 " x="975.6" y="-820.29" width="2401.9" height="1281.01"/>
   </g>
 </svg>
