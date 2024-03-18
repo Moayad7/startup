@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/startup/static/css/main.4581feee.css",
-    "main.js": "/startup/static/js/main.d6b7379b.js",
+    "main.css": "/startup/static/css/main.2d84f956.css",
+    "main.js": "/startup/static/js/main.2852d92c.js",
     "static/media/shapes-22.webp": "/startup/static/media/shapes-22.0d087f03468941ce0895.webp",
     "static/media/hero-background-01.webp": "/startup/static/media/hero-background-01.06642e7a7639b397626f.webp",
     "static/media/card-background_Mesa de trabajo 1.webp": "/startup/static/media/card-background_Mesa de trabajo 1.6b86f8415e7a9aef8f7a.webp",
@@ -20,16 +20,17 @@
     "static/media/shapes-31.svg": "/startup/static/media/shapes-31.07cb2d7b080e36a1d530da43b9f6fd21.svg",
     "static/media/icons-17.svg": "/startup/static/media/icons-17.f324be863a80eaa1e055c7e641f62788.svg",
     "static/media/shapes-30.svg": "/startup/static/media/shapes-30.56140f4e752af8fb6afccc6e7100355c.svg",
+    "static/media/ahmad website2-21.svg": "/startup/static/media/ahmad website2-21.0b04d42dd8796c99d337.svg",
     "static/media/icons-16.svg": "/startup/static/media/icons-16.1b44e97f5cb1de138b1013dac26d2caa.svg",
     "static/media/ahmad website2-20.svg": "/startup/static/media/ahmad website2-20.e67ac1541fc58dc987bd.svg",
     "static/media/socialMedia-24.svg": "/startup/static/media/socialMedia-24.73f0f6c96bc5d5119e51594f9f28c2d0.svg",
     "index.html": "/startup/index.html",
     "static/media/shapes-23.svg": "/startup/static/media/shapes-23.8dd4f7b873c87a0544d4.svg",
-    "main.4581feee.css.map": "/startup/static/css/main.4581feee.css.map",
-    "main.d6b7379b.js.map": "/startup/static/js/main.d6b7379b.js.map"
+    "main.2d84f956.css.map": "/startup/static/css/main.2d84f956.css.map",
+    "main.2852d92c.js.map": "/startup/static/js/main.2852d92c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4581feee.css",
-    "static/js/main.d6b7379b.js"
+    "static/css/main.2d84f956.css",
+    "static/js/main.2852d92c.js"
   ]
 }
