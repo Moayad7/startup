@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/startup/static/css/main.8551ef2b.css",
-    "main.js": "/startup/static/js/main.46cf6197.js",
+    "main.css": "/startup/static/css/main.35d4f198.css",
+    "main.js": "/startup/static/js/main.d8d1b96d.js",
     "static/media/shapes-22.webp": "/startup/static/media/shapes-22.0d087f03468941ce0895.webp",
     "static/media/hero-background-01.webp": "/startup/static/media/hero-background-01.06642e7a7639b397626f.webp",
     "static/media/card-background_Mesa de trabajo 1.webp": "/startup/static/media/card-background_Mesa de trabajo 1.6b86f8415e7a9aef8f7a.webp",
@@ -10,10 +10,11 @@
     "static/media/PNU-Light.ttf": "/startup/static/media/PNU-Light.b7b640b4c27f23fab2c0.ttf",
     "static/media/PNU-Bold.ttf": "/startup/static/media/PNU-Bold.aa3435593c1ecaaabe5f.ttf",
     "static/media/socialMedia-26.svg": "/startup/static/media/socialMedia-26.872817f74b62017c6dfe21a510f0c06c.svg",
+    "static/media/almia-03.svg": "/startup/static/media/almia-03.e9734f53e09e5bd70f0eef67bdd23d1c.svg",
+    "static/media/almia-02.svg": "/startup/static/media/almia-02.e6561c1236c8371666b1b3830dc313cd.svg",
     "static/media/socialMedia-27.svg": "/startup/static/media/socialMedia-27.8be6971fd4dbe9e4a061f4f2fee726db.svg",
     "static/media/socialMedia-25.svg": "/startup/static/media/socialMedia-25.36e409fc7e4d4b1541c84f11f8e224da.svg",
     "static/media/gray-background-02.svg": "/startup/static/media/gray-background-02.55d9d15a5c83b52f6033.svg",
-    "static/media/ahmad website2-12.svg": "/startup/static/media/ahmad website2-12.59445b9b9184fa28f6c3761d33e6dd43.svg",
     "static/media/shapes-18.svg": "/startup/static/media/shapes-18.ed17f392e2846a9e39f0f8d0629a045b.svg",
     "static/media/ahmad website2-13.svg": "/startup/static/media/ahmad website2-13.628f6c7fb83de0d8986823393c9b7251.svg",
     "static/media/shapes-31.svg": "/startup/static/media/shapes-31.07cb2d7b080e36a1d530da43b9f6fd21.svg",
@@ -24,11 +25,11 @@
     "static/media/socialMedia-24.svg": "/startup/static/media/socialMedia-24.73f0f6c96bc5d5119e51594f9f28c2d0.svg",
     "index.html": "/startup/index.html",
     "static/media/shapes-23.svg": "/startup/static/media/shapes-23.8dd4f7b873c87a0544d4.svg",
-    "main.8551ef2b.css.map": "/startup/static/css/main.8551ef2b.css.map",
-    "main.46cf6197.js.map": "/startup/static/js/main.46cf6197.js.map"
+    "main.35d4f198.css.map": "/startup/static/css/main.35d4f198.css.map",
+    "main.d8d1b96d.js.map": "/startup/static/js/main.d8d1b96d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8551ef2b.css",
-    "static/js/main.46cf6197.js"
+    "static/css/main.35d4f198.css",
+    "static/js/main.d8d1b96d.js"
   ]
 }
