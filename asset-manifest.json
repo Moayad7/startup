@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/startup/static/css/main.f6cc3ac4.css",
-    "main.js": "/startup/static/js/main.7c41f22f.js",
+    "main.css": "/startup/static/css/main.4f458096.css",
+    "main.js": "/startup/static/js/main.ef450588.js",
     "static/media/shapes-22.webp": "/startup/static/media/shapes-22.0d087f03468941ce0895.webp",
     "static/media/hero-background-01.webp": "/startup/static/media/hero-background-01.06642e7a7639b397626f.webp",
     "static/media/card-background_Mesa de trabajo 1.webp": "/startup/static/media/card-background_Mesa de trabajo 1.23ad8bb27349c5eea964.webp",
@@ -24,11 +24,11 @@
     "static/media/socialMedia-24.svg": "/startup/static/media/socialMedia-24.73f0f6c96bc5d5119e51594f9f28c2d0.svg",
     "index.html": "/startup/index.html",
     "static/media/shapes-23.svg": "/startup/static/media/shapes-23.8dd4f7b873c87a0544d4.svg",
-    "main.f6cc3ac4.css.map": "/startup/static/css/main.f6cc3ac4.css.map",
-    "main.7c41f22f.js.map": "/startup/static/js/main.7c41f22f.js.map"
+    "main.4f458096.css.map": "/startup/static/css/main.4f458096.css.map",
+    "main.ef450588.js.map": "/startup/static/js/main.ef450588.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6cc3ac4.css",
-    "static/js/main.7c41f22f.js"
+    "static/css/main.4f458096.css",
+    "static/js/main.ef450588.js"
   ]
 }
