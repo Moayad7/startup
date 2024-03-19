@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/startup/static/css/main.d586bf0e.css",
-    "main.js": "/startup/static/js/main.19b4b9fd.js",
+    "main.css": "/startup/static/css/main.15048406.css",
+    "main.js": "/startup/static/js/main.3bbf68e7.js",
+    "static/media/testimonials-bg.jpg": "/startup/static/media/testimonials-bg.85f1a1b7077f67a195ec.jpg",
     "static/media/shapes-22.webp": "/startup/static/media/shapes-22.0d087f03468941ce0895.webp",
     "static/media/hero-background-01.webp": "/startup/static/media/hero-background-01.06642e7a7639b397626f.webp",
     "static/media/card-background_Mesa de trabajo 1.webp": "/startup/static/media/card-background_Mesa de trabajo 1.6b86f8415e7a9aef8f7a.webp",
@@ -15,7 +16,9 @@
     "static/media/socialMedia-27.svg": "/startup/static/media/socialMedia-27.8be6971fd4dbe9e4a061f4f2fee726db.svg",
     "static/media/socialMedia-25.svg": "/startup/static/media/socialMedia-25.36e409fc7e4d4b1541c84f11f8e224da.svg",
     "static/media/gray-background-02.svg": "/startup/static/media/gray-background-02.55d9d15a5c83b52f6033.svg",
+    "static/media/4715020_avatar_people_person_profile_user_icon.svg": "/startup/static/media/4715020_avatar_people_person_profile_user_icon.7f76b1a310e15876a4bd12ea6c3c997d.svg",
     "static/media/shapes-18.svg": "/startup/static/media/shapes-18.ed17f392e2846a9e39f0f8d0629a045b.svg",
+    "static/media/4714992_avatar_man_people_person_profile_icon.svg": "/startup/static/media/4714992_avatar_man_people_person_profile_icon.8c778a10aa7771ff1c13eae071789ca1.svg",
     "static/media/ahmad website2-13.svg": "/startup/static/media/ahmad website2-13.628f6c7fb83de0d8986823393c9b7251.svg",
     "static/media/shapes-31.svg": "/startup/static/media/shapes-31.07cb2d7b080e36a1d530da43b9f6fd21.svg",
     "static/media/icons-17.svg": "/startup/static/media/icons-17.f324be863a80eaa1e055c7e641f62788.svg",
@@ -26,11 +29,11 @@
     "static/media/socialMedia-24.svg": "/startup/static/media/socialMedia-24.73f0f6c96bc5d5119e51594f9f28c2d0.svg",
     "index.html": "/startup/index.html",
     "static/media/shapes-23.svg": "/startup/static/media/shapes-23.8dd4f7b873c87a0544d4.svg",
-    "main.d586bf0e.css.map": "/startup/static/css/main.d586bf0e.css.map",
-    "main.19b4b9fd.js.map": "/startup/static/js/main.19b4b9fd.js.map"
+    "main.15048406.css.map": "/startup/static/css/main.15048406.css.map",
+    "main.3bbf68e7.js.map": "/startup/static/js/main.3bbf68e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d586bf0e.css",
-    "static/js/main.19b4b9fd.js"
+    "static/css/main.15048406.css",
+    "static/js/main.3bbf68e7.js"
   ]
 }
