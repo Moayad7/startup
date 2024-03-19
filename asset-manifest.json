@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/startup/static/css/main.3f9d9f01.css",
+    "main.css": "/startup/static/css/main.ddc68d01.css",
     "main.js": "/startup/static/js/main.e887976f.js",
     "static/media/bg-01.png": "/startup/static/media/bg-01.849460b4d4ec09e2db28.png",
     "static/media/testimonials-bg.jpg": "/startup/static/media/testimonials-bg.85f1a1b7077f67a195ec.jpg",
     "static/media/shapes-22.webp": "/startup/static/media/shapes-22.0d087f03468941ce0895.webp",
-    "static/media/bg2-01.webp": "/startup/static/media/bg2-01.53ac19487f4c2a3c6207.webp",
     "static/media/hero-background-01.webp": "/startup/static/media/hero-background-01.06642e7a7639b397626f.webp",
+    "static/media/bg2_Artboard 1.webp": "/startup/static/media/bg2_Artboard 1.f6869f0075f4ea82b54f.webp",
     "static/media/card-background_Mesa de trabajo 1.webp": "/startup/static/media/card-background_Mesa de trabajo 1.6b86f8415e7a9aef8f7a.webp",
     "static/media/PNU-Regular.ttf": "/startup/static/media/PNU-Regular.bfb2f2dc92889fbc6dd2.ttf",
     "static/media/PNU-Medium.ttf": "/startup/static/media/PNU-Medium.4963638b65aa11146b72.ttf",
@@ -31,11 +31,11 @@
     "static/media/socialMedia-24.svg": "/startup/static/media/socialMedia-24.73f0f6c96bc5d5119e51594f9f28c2d0.svg",
     "index.html": "/startup/index.html",
     "static/media/shapes-23.svg": "/startup/static/media/shapes-23.8dd4f7b873c87a0544d4.svg",
-    "main.3f9d9f01.css.map": "/startup/static/css/main.3f9d9f01.css.map",
+    "main.ddc68d01.css.map": "/startup/static/css/main.ddc68d01.css.map",
     "main.e887976f.js.map": "/startup/static/js/main.e887976f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f9d9f01.css",
+    "static/css/main.ddc68d01.css",
     "static/js/main.e887976f.js"
   ]
 }
